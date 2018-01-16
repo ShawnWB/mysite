@@ -1,0 +1,258 @@
+
+html, body{
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	overflow-x:hidden;
+	background-color:#1c1c1c;
+}
+
+#container{
+	
+}
+
+#header{
+	width:100%;
+	height:10vh;
+	margin:0;
+	background-color:#1c1c1c;
+}
+
+#header01{
+	width:25vw;
+	height:100%;
+	margin-left:10%;
+	display:inline-block;
+	margin-top:0px;
+	float:left;
+}
+#name{
+  margin-top:0px;
+  font-size:5em;
+  width:25vw;
+  font-family:arial, sans-serif;
+  font-weight:bold;
+  color:white;
+}
+
+#header02{
+	width:50vw;
+	height:100%;
+	display:inline-block;
+	
+	
+}
+
+#header22{
+	width:100%;
+	height:50%;
+	margin-top:25px;
+}
+
+.guide{
+	font-size:1.5em;
+	font-family:arial, sans-serif;
+	font-weight:bold;
+	color:white;
+	text-decoration:none;
+	display:inline-block;
+	float:right;
+	margin-right:100px;
+}
+
+#titlecontainer{
+	width:100%;
+	height:80vh;
+	background-image:url("floatingedit.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#title01{
+	width:50%;
+	height:80vh;
+	margin:auto;
+	padding-top:1px;
+	
+}
+
+#title11{
+	vertical-align:top;
+	font-size:3.5em;
+	font-family:arial, sans-serif;
+	font-weight:bold;
+	color:white;
+	text-align: center;
+	vertical-align: middle;
+	margin-top:20%;
+}
+
+#title12{
+	font-size:1.5em;
+	font-family:arial, sans-serif;
+	color:white;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#block1{
+	width:100%;
+	height:45vh;
+	background-color:#96c8ff;  /*ea2323*/
+
+}
+
+#block11{
+	width:90%;
+	height:65%;
+	float:left;
+	margin-top:60px;
+	margin-left:100px;
+}
+#virus{
+	width:260px;
+	height:50px;
+	background-color:#0a80ff;
+	
+}
+#tvirus{
+	text-align:center;
+	vertical-align:middle;
+	line-height:50px;
+	text-decoration:none;
+	font-family:arial, sans-serif;
+	color:white;
+	font-size:1.4em;
+}
+
+#block12{
+	width:50%;
+	height:100%;
+	float:left;
+	margin-left:5vw;
+	margin-top:5vh;
+	display:block;
+
+}
+#t1{
+	font-size:2em;
+	font-family:arial, sans-serif;
+	font-weight:bold;
+	color:white;
+}
+#t12{
+	font-size:1.2em;
+	font-family:arial, sans-serif;
+	color:white;
+}
+
+#block13{
+	width:40%;
+	height:100%;
+	float:right;
+	display:block;
+
+}
+
+#block2{
+	width:100%;
+	height:60vh;
+	background-color:#1c1c1c;
+	padding-bottom:40px;
+}
+#block21{
+	width:49%;
+	height:55vh;
+	float:left;
+	background-image:url("jackhold.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#block22{
+	width:50%;
+	height:55vh;
+	float:right;
+	background-image:url("coolguy.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#block3{
+	width:100%;
+	height:45vh;
+	background-color:#56a8ff;
+	
+}
+#blockimg1{
+	width:450px;
+	height:45vh;
+	float:left;
+	display:inline-block;
+}
+#blockimg2{
+	width:400px;
+	height:45vh;
+	float:left;
+	display:inline-block;
+}
+#block32{
+	width:40%;
+	height:100%;
+	float:right;
+	margin-right:5vw;
+}
+#t2{
+	font-size:2em;
+	font-family:arial, sans-serif;
+	font-weight:bold;
+	color:white;
+	margin-top:100px;
+}
+#t21{
+	font-size:1.2em;
+	font-family:arial, sans-serif;
+	color:white;
+}
+#virus2{
+	width:260px;
+	height:50px;
+	margin-top:20px;
+	background-color:#0a80ff;
+	
+}
+
+.imgbot{
+	margin-top:0px;
+	float:left;
+	max-width:100%;
+	max-height:100%;
+	display:inline-block;
+}
+
+#block4{
+	width:100%;
+	height:5vh;
+	background-color:#1c1c1c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
